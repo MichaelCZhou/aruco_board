@@ -1,0 +1,8 @@
+/home/zc/project/aruco_board/build/CMakeFiles/edit_cache.dir
+/home/zc/project/aruco_board/build/CMakeFiles/detect_board_charuco.dir
+/home/zc/project/aruco_board/build/CMakeFiles/detect_markers.dir
+/home/zc/project/aruco_board/build/CMakeFiles/detect_board.dir
+/home/zc/project/aruco_board/build/CMakeFiles/calibrate_camera_charuco.dir
+/home/zc/project/aruco_board/build/CMakeFiles/calibrate_camera.dir
+/home/zc/project/aruco_board/build/CMakeFiles/rebuild_cache.dir
+/home/zc/project/aruco_board/build/CMakeFiles/create_board.dir
